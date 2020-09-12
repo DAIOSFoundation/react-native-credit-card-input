@@ -14,7 +14,7 @@ import ReactNative, {
 import CreditCard from "./CardView";
 import CCInput from "./CCInput";
 import { InjectedProps } from "./connectToState";
-import { ViewRow } from '../../../components/styled/View'
+import { ViewRow } from './components/styled/View'
 
 const s = StyleSheet.create({
   container: {

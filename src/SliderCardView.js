@@ -13,11 +13,11 @@ import defaultIcons from "./Icons";
 import FlipCard from "react-native-flip-card";
 
 // custom button
-import {Button} from '../../../components/styled/Button';
-import {ImageBorder} from '../../../components/styled/Image';
-import {ViewRow} from '../../../components/styled/View';
+import {Button} from './components/styled/Button';
+import {ImageBorder} from './components/styled/Image';
+import {ViewRow} from './components/styled/View';
 
-const deleteCard = require('../../../assets/common/icon_cancel_white.png')
+const deleteCard = require('../images/icon_cancel_white.png')
 
 const BASE_SIZE = { width: 300, height: 190 };
 
